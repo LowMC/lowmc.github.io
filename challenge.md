@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# The LowMC cryptanalysis challenge
+## The LowMC cryptanalysis challenge
 
 More to come.
 
