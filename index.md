@@ -2,8 +2,7 @@
 title: LowMC
 ---
 
-# LowmC
-## A family of block ciphers with minimal multiplicative complexity
+# LowMC -- A family of block ciphers with minimal multiplicative complexity
 
-Test
+Have a look at the [LowMC cryptanalysis challenge](challenge)
 

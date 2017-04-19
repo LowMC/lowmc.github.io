@@ -1,3 +1,4 @@
-name: LowMC
+title: LowMC
+description: A family of block ciphers with minimal multiplicative complexity
 theme: jekyll-theme-cayman
 markdown: kramdown
