@@ -1,4 +1,4 @@
 title: LowMC
-description: A family of block ciphers with minimal multiplicative complexity
+description: A family of block ciphers with low multiplicative complexity
 theme: jekyll-theme-cayman
 markdown: kramdown
