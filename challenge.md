@@ -13,7 +13,10 @@ Apart from fame, you can also win **prizes**.
 For each challenge, there are two attack targets. The first is to find
 the most time efficient attack on a round-reduced version of the LowMC
 instance. The second challenge is to break a number of rounds deemed secure
-by the designers.
+by the designers. For the first type of challenge, the prize will go the
+best time efficiency (and potentially extra prizes for low memory/data
+complexity). For the second type of challenge, the prize will go to whoever
+submits the first valid attack.
 
 If you win a prize, you can choose a present from one of the countries of
 people involved in the design of LowMC: Austria, Denmark, Germany, Iran, and
@@ -24,9 +27,15 @@ the United Kingdom.
 ### Challenges
 The attack challenges cover three types of LowMC instantiations that
 are optimized with respect to different metrics: 
- * Challenge I: Minimizing total multiplications,
+ * Challenge I: Minimizing total multiplications.
  * Challenge II: Minimizing the multiplicative depth,
  * Challenge III: Minimizing multiplications per encrypted bit.
+
+Challenge I is the setting that is relevant for using LowMC in
+post-quantum signature schemes. Challenge II is the setting that
+is relevant for using LowMC in Fully Homomorphic Encryption.
+Challenge III is the setting most relevant for secure multi-party
+computation.
 
 #### Challenge I
 
